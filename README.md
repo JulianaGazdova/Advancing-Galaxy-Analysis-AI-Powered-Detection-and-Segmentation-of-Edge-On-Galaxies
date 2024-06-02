@@ -17,4 +17,4 @@ Authors: Ž. Chrobáková<sup>1</sup> , V. Krešnáková<sup>2</sup>, R. Nagy<su
 2 Department of Cybernetics and Artificial Intelligence, Faculty of Electrical Engineering and Informatics, Technical University of
 Kosice, 042 00 Košice, Slovakia
 
-Contact: <chrobakova3@uniba.sk>, <viera.kresnakova@tuke.sk>
+Contacts: <chrobakova3@uniba.sk>, <viera.kresnakova@tuke.sk>
