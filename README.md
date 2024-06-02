@@ -7,4 +7,14 @@
 - Jupyter notebook training_scss_net contains example of using SCSS NET on our dataset.
 - Jupyter notebook training_yolov5 contains example of using YOLOv5 on our dataset.
 
-Data will be provided upon request.
+**Data will be provided upon request.**
+
+
+Authors: Ž. Chrobáková<sup>1</sup> , V. Krešnáková<sup>2</sup>, R. Nagy<sup>1</sup>, J. Gazdová<sup>2</sup>, P. Butka<sup>2</sup>
+
+1 Faculty of Mathematics, Physics, and Informatics, Comenius University, Mlynská dolina, 842 48 Bratislava, Slovakia
+
+2 Department of Cybernetics and Artificial Intelligence, Faculty of Electrical Engineering and Informatics, Technical University of
+Kosice, 042 00 Košice, Slovakia
+
+Contact: <chrobakova3@uniba.sk>, <viera.kresnakova@tuke.sk>
