@@ -7,4 +7,4 @@
 - Jupyter notebook training_scss_net contains example of using SCSS NET on our dataset.
 - Jupyter notebook training_yolov5 contains example of using YOLOv5 on our dataset.
 
-Data will be provided upon request / Data are provided on link: ???
+Data will be provided upon request.
