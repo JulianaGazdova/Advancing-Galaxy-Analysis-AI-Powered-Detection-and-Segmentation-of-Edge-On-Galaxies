@@ -10,11 +10,13 @@
 **Data will be provided upon request.**
 
 
-Authors: Ž. Chrobáková<sup>1</sup> , V. Krešnáková<sup>2</sup>, R. Nagy<sup>1</sup>, J. Gazdová<sup>2</sup>, P. Butka<sup>2</sup>
+Authors: Ž. Chrobáková<sup>1</sup> , V. Krešnáková<sup>2</sup>, R. Nagy<sup>3</sup>, J. Gazdová<sup>2</sup>, P. Butka<sup>2</sup>
 
-1 Faculty of Mathematics, Physics, and Informatics, Comenius University, Mlynská dolina, 842 48 Bratislava, Slovakia
+1  Mullard Space Science Laboratory, University College London, Holmbury St Mary, Dorking, Surrey RH5 6NT, UK
 
 2 Department of Cybernetics and Artificial Intelligence, Faculty of Electrical Engineering and Informatics, Technical University of
 Kosice, 042 00 Košice, Slovakia
 
-Contacts: <chrobakova3@uniba.sk>, <viera.kresnakova@tuke.sk>
+3 Faculty of Mathematics, Physics, and Informatics, Comenius University, Mlynská dolina, 842 48 Bratislava, Slovakia
+
+Contacts: <z.chrobakova@ucl.ac.uk>, <viera.kresnakova@tuke.sk>
