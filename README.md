@@ -6,6 +6,7 @@
 - Folder postprocessing contains scripts used after galaxy detection and segmentation for extracting desired data used in the paper.
 - Jupyter notebook training_scss_net contains example of using SCSS NET on our dataset.
 - Jupyter notebook training_yolov5 contains example of using YOLOv5 on our dataset.
+- Python script metrics.py contains custom validation of YOLOv5 model.
 
 **Data will be provided upon request.**
 
